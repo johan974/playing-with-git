@@ -1,2 +1,2 @@
-comp5=2
-comp6=2
+comp5=3
+comp6=3
