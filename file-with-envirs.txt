@@ -1,2 +1,2 @@
-comp1=4
-comp2=4
+comp1=5
+comp2=5
